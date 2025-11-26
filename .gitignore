@@ -64,6 +64,6 @@ runs/
 wandb/
 lightning_logs/
 outputs/
-eval_logs/
+#eval_logs/
 data/
 datasets/
